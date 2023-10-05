@@ -1,5 +1,7 @@
 # Cardiac-Digital-Twin-Purkinje
+This repository contains the code developed for the following study published in Medical Image Analysis:
 Digital Twinning of the Human Ventricular Activation Sequence to Clinical 12-Lead ECGs and Magnetic Resonance Imaging Using Realistic Purkinje Networks for in Silico Clinical Trials
+DOI: 
 
 ## Monodomain simulations
 
