@@ -2,6 +2,7 @@
 This repository contains the code developed for the study:
 _Digital Twinning of the Human Ventricular Activation Sequence to Clinical 12-Lead ECGs and Magnetic Resonance Imaging Using Realistic Purkinje Networks for in Silico Clinical Trials_
 
+
 Published in Medical Image Analysis: DOI
 
 ## Monodomain simulations
