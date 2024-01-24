@@ -5,6 +5,8 @@ _Digital Twinning of the Human Ventricular Activation Sequence to Clinical 12-Le
 
 Published in Medical Image Analysis: DOI
 
+These software and tools are licenced under a Creative Commons Attribution licence (CC BY).
+
 ## Monodomain simulations
 
 To numerically solve the monodomain equation we use an open-source high-performance GPU solver called <em>MonoAlg3D_C</em>, which is publicly available at the following repository: 
